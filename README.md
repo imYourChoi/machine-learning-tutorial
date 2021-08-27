@@ -17,4 +17,4 @@ __`See the following contents in the machine-learning-tutorial.ipynb file.`__
 
 __`You could also read the content in the below link for better readability.`__
 
-__Link : https://nbviewer.jupyter.org/gist/imYourChoi/738a01da78c93bfc8d7df190fbf1d78b__
+__Link : https://nbviewer.jupyter.org/gist/imYourChoi/d4d28e76b44b58b27b5a7a9d74b76008__
